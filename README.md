@@ -17,4 +17,4 @@ income.
 - It uses a ring chart to display and indicate the amount of budget left for the month after analyzing and calculating the balance budget
  from the income earned and the expenditure made.
 
-https://github.com/SimranAnand1/Budget-Management-and-Analyzing-System/SimranAnand1.github.io
+
