@@ -1,2 +1,18 @@
-# Budget-Management-and-Analyzing-System
-This is a web application created using HTML,CSS, JavaScript, Bootstrap 4, JSON, PHP, MySQL,  chart.js and other JavaScript libraries. It manages the budget of a person by helping him/her to keep a record of the expenditure. It incorporates To-Do expense list tracker, Visual data analyzer of budget and a budget management system.
+# Budget Manager
+
+#### A simple budget tracker to keep track of your incoming and outgoing expenses per month.This has been made using Vanilla JavaScript
+
+## Demo
+
+<div align='center'>
+	<img src='appdemo.gif' />
+</div>
+ 
+- I've used local storage to make data persist.
+- You can add, remove, edit income, and expense items.
+- This will also show you the percentage of each expense item w.r.t total 
+income.
+- You can delete all items at once with delete all button
+- Bar Chart will show the budget percentage w.r.t (income+expense)
+
+Any suggestions or improvements are most welcome.
