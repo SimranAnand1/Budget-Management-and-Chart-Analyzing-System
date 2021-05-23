@@ -16,5 +16,5 @@ income.
 - Bar Chart will show the budget percentage w.r.t (income+expense)
 - It uses a ring chart to display and indicate the amount of budget left for the month after analyzing and calculating the balance budget
  from the income earned and the expenditure made.
-
+It displays the proportion of the monthly expenses with respect to the total budget/income by calculating the balance and displays it visually in the form of a table as well as a Ring Chart. It is very useful for an individual to maintain his monthly or daily record of budget so that he will be able to manage his expenses accordingly. Data can be easily updated or deleted via buttons that dynamically make it an interactive web application. It can also be used for groups or an organization to analyze their business over the month and drives good decisions.
 
