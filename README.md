@@ -1,6 +1,6 @@
 # Budget Management System and Analyzer
 
-#### A budget management web application to keep track of one's incoming and outgoing expenses per month.This has been created using Vanilla JavaScript, HTML, CSS, JSON, PHP, MySQL, Bootstrap 4, SQL, chart.js and some other JavaScript libraries.
+#### A budget management web application to keep track of one's incoming and outgoing expenses per month.This has been created using Vanilla JavaScript, HTML, CSS, JSON, PHP, MySQL, Bootstrap 4, SQL, chart.js and some other JavaScript libraries and frameworks.
 
 ## Demo
 
