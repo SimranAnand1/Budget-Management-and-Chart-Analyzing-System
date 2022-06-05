@@ -1,21 +1,61 @@
-# Budget Management System and Analyzer
+# Easy Budget 💸
 
-#### A budget management web application to keep track of one's incoming and outgoing expenses per month.This has been created using Vanilla JavaScript, HTML, CSS, JSON, PHP, MySQL, Bootstrap 4, SQL, DBC, chart.js and some other JavaScript libraries and frameworks.
-Link of web application hosted online: https://simrananand1.github.io/Budget-Management-and-Chart-Analyzing-System/
+![badge1](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![badge2](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+> Front-end mobile app for an easy way to manage your personal budget, developed in Flutter.
 
-## Demo
+<br>
 
-<div align='center'>
-	<img src='appdemo.gif' />
-</div>
- 
-- I have used local storage to make data persist.
-- You can add, remove, update income, and expense items.
-- This will also show us the percentage of each expense item w.r.t total 
-income.
-- You can delete all items at once with delete all button
-- Bar Chart will show the budget percentage w.r.t (income+expense)
-- It uses a ring chart to display and indicate the amount of budget left for the month after analyzing and calculating the balance budget
- from the income earned and the expenditure made.
-It displays the proportion of the monthly expenses with respect to the total budget/income by calculating the balance and displays it visually in the form of a table as well as a Ring Chart. It is very useful for an individual to maintain his monthly or daily record of budget so that he will be able to manage his expenses accordingly. Data can be easily updated or deleted via buttons that dynamically make it an interactive web application. It can also be used for groups or an organization to analyze their business over the month and drives good data drivrn decisions.
+## 🥅 My Goal
 
+My goal is give you the knowledge to create a Flutter app entirely from scratch, how to go further and learn more about how to design user interfaces for Flutter apps.
+
+<br>
+
+## :construction_worker: Installation
+
+***In order to clone the project via HTTPS, run this command:***
+
+```
+$> git clone https://github.com/dimaodin/easybudget.git
+```
+
+SSH URLs provide access to a Git repository via SSH, a secure protocol. If you have a SSH key registered in your Github account, clone the project using this command:
+
+```
+$> git clone git@github.com:dimaodin/easybudget.git
+```
+
+**Install dependencies**
+
+```
+$> flutter install
+```
+
+**Start development server**
+
+```
+$> flutter run
+```
+
+<br>
+
+## :bug: Issues
+
+Feel free to **file a new issue** with a respective title and description on the [EasyBudget](https://github.com/dimaodin/EasyBudget/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/dimaodin/EasyBudget/blob/main/CONTRIBUTING.md) to find out about the coding standards.
+
+<br>
+
+## :tada: Contributing
+
+Check out the [contributing](https://github.com/dimaodin/EasyBudget/blob/main/CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
+
+<br>
+
+## :closed_book: License
+
+Released in 2021,
+This project is under the [MIT license](https://github.com/dimaodin/EasyBudget/blob/main/LICENSE).
+
+<br>
+
+##### Made with love by [Dima Odintsov](https://github.com/DimaOdin) 💜🚀
