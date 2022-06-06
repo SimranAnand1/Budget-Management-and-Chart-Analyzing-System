@@ -3,3 +3,4 @@ This is a web application created using HTML,CSS, JavaScript, Bootstrap 4, JSON,
 https://simrananand1.github.io/Budget-Management-and-Chart-Analyzing-System/
 
 https://github.com/SimranAnand1/Budget-Management-and-Chart-Analyzing-System/blob/main/appdemo.gif
+![image](https://user-images.githubusercontent.com/67438489/172242289-e1fe8fea-501c-4711-a454-128f5191611a.png)
